@@ -1,0 +1,22 @@
+package com.brmgf.readings.model;
+
+public enum Genre {
+	
+	ACTION,
+	ADVENTURE,
+	BIOGRAPHY,
+	CHILD,
+	COMEDY,
+	DIY,
+	FANTASY,
+	FICTION,
+	LGBTQIA,
+	NONFICTION,
+	SELFHELP,
+	SCIFI,
+	SPIRITUALLY,
+	TALE,
+	THRILLER,
+	ROMANCE,
+
+}
